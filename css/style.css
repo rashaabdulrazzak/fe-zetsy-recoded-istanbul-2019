@@ -45,7 +45,7 @@ p{
     text-decoration: none;
 }
  #partner img {
-         transition: border 0.5 ease;
+        /* transition: border 0.5 ease;*/
          border: 5px #ccc solid;
      }
 #partner img:hover{
