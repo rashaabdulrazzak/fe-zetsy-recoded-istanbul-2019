@@ -45,7 +45,8 @@ p{
     text-decoration: none;
 }
 #Partner img{
-  padding: 
+  border: 5px #6f7f7a solid;
+  padding: 1px;
 }
  #Partner a {
      border: 5px #ccc solid;
