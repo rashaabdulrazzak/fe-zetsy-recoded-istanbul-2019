@@ -45,14 +45,14 @@ p{
     text-decoration: none;
 }
 #Partner img{
-  border: 5px #6f7f7a solid;
+  border: 5px #ccc solid;
   padding: 1px;
 }
  #Partner a {
-     /*border: 5px #ccc solid;*/
-         transition: border 0.5 ease;
+     /*border: 5px #6f7f7a solid;*/
+        
          
      }
-#Partner a:hover{
+#Partner img:hover{
         border: 5px #6f7f7a solid;
     }
